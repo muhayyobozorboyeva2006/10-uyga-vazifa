@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color:#00000017;
+    background-attachment: fixed;
+}
+a{
+  text-decoration: none;
+}
+.trend h3{
+    display: inline-block;
+}
+.cand{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 19px;
+    padding-bottom: 23px;
+}
+.cand ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: #000000D9;
+}
+.cand1{
+    color: #000000D9;
+}
+.cand2{
+    color: #000000D9;
+}
+.cand3{
+    color: #000000D9;
+}
+.cand4{
+    width: 58px;
+    height: 24px;
+    padding-top: 16px;
+    padding-left: 19px;
+    border-radius: 1px;
+}
+
+.trend1{
+   display: flex;
+    gap:16px ;
+
+}
+.container1{
+    width: 496px;
+    height: 849px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+    background-color: #FFFFFF;
+}
+.logo1{
+    align-items: center;
+    justify-content: space-between;
+    width: 101px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 24px;
+}
+.trend h1{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:20px ;
+    margin-bottom: 24px;
+}
+.text1{
+    width: 400px;
+    height: 40px;
+    
+    border-radius: 5px;
+}
+.trend2{
+    margin-top: 30px;
+}
+.trend3{
+   
+    padding-top: 32px;
+}
+.trend3 button{
+    width: 200px;
+        height: 48px;
+     border: 2px #01BAB3;   
+    border-radius: 5px;    
+}
+.trend4{
+    width: 400px;
+    height: 80px;
+     margin-top: 32px;
+}
+.text2{
+    width: 400px;
+    height: 48px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.trend5{
+    margin-top: 20px;
+}
+.text3{
+   width: 400px;
+   height: 48px;
+   background-color:#01BAB3 ;
+   margin-top: 32px;
+   border-radius: 5px;
+}
+.card{
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    padding-left: 16px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+}
+.card1{
+    width: 400px;
+        height: 40px;
+        padding: 10px;
+        padding-left: 16px;
+        border-radius: 5px;
+        font-size: 16px;
+        background-color: #FFFFFF;
+        margin-top: 5px;
+}
+.trend6{
+    margin-top: 10px;
+    font-size: 16px;
+}
+.trend7{
+    margin-top: 10px;
+    font-size: 16px;
+}
+.trend8{
+    width: 190px;
+    height: 30px;
+    padding: 6px;
+    font-size: 16px;
+}
+.trend9{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.trend10{
+    width: 190px;
+        height: 30px;
+        padding: 12px;
+        font-size: 16px;
+}
+.trend11{
+    margin-top: 10px;
+    font-size: 16px;
+}
+.card0{
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+}
+.trend12{
+    
+        margin-top: 10px;
+}
+.card3{
+    width: 400px;
+        height: 40px;
+        font-size: 16px;
+        margin-top: 5px;
+}
+.card4{
+    width: 400px;
+    height: 60px;
+    padding-top: 6px;
+    padding-left: 4px;
+    margin-top: 60px;
+    background-color:#01BAB3 ;
+    border-radius:5px ;
+}
